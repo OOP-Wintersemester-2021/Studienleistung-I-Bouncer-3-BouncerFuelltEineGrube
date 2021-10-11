@@ -1,4 +1,4 @@
-# Studienleistung I: Bouncer | 1. Bouncer füllt eine Grube auf
+# Studienleistung I: Bouncer | 3. Bouncer füllt eine Grube auf
 
 ## Wichtige Informationen zur Bearbeitung der Aufgabe
 - [Informationen zur Entwicklungsumgebung *IntelliJ IDEA*](https://elearning.uni-regensburg.de/mod/book/view.php?id=1480675)
