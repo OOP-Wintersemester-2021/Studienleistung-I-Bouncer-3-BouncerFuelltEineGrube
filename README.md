@@ -49,6 +49,7 @@ Bouncer bedient sich hierfür einem Hilfsmittel (rotes Feld) mit dem Bouncer mar
 Bouncer hat immer ```6 x 3``` aufgestapeltes Füllmaterial zur Verfügung und eine Grube besteht immer maximal aus ```18``` Feldern.
 Bouncer steht immer rechts neben dem Füllmaterial und schaut immer nach Osten, d.h. auf den Koordinaten (3, 9).
 Bouncer kann minimal ein Feld vom Grubenbeginn entfernt stehen, d.h. Bouncer steht links von der Markierung, dem roten Feld.
+
 Ihr Programm soll für beliebige Gruben, innerhalb dieser Regeln, funktionieren.
 
 | Bouncer steht in einer Welt mit einer Grube vor Bouncer und Füllmaterial hinter Bouncer. | Bouncer hat die Grube mithilfe des Füllmaterials aufgefüllt. |
