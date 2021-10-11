@@ -72,4 +72,4 @@ Lösen Sie folgende Teilaufgaben, um die Grube zu füllen.
 * Legen Sie großen Wert auf ```Decomposition```, um Ihren Code gemäß der zu lösenden Teilprobleme zu strukturieren.
 * Das rote Feld ist eine Hilfe mit der Sie anhand der Methode ```isOnFieldWithColor(FieldColor.RED)``` schnell zur Grube zurückkehren können
 * Das rote Feld ist auch ein Hinweis dafür, dass Sie die Grube wieder verlassen haben und Bouncer sich nun wieder an der Oberfläche befindet 
-* Das rote Feld sollten Sie demnach auch verschieben, sobald Sie einen Abschnitt der Grube aufgefüllt haben, da die Grube dann einen Neuen Beginn hat
+* Das rote Feld sollten Sie demnach auch verschieben, sobald Sie einen Abschnitt der Grube aufgefüllt haben, da die Grube dann einen neuen Beginn hat
