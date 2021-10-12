@@ -24,7 +24,7 @@ Zum Einreichen Ihrer Aufgaben nutzen Sie die entsprechende Funktion in GRIPS.
 Falls Sie Problemen mit dem Starterpaket oder dem Einreichen der Aufgabe haben, können Sie sich in den Handouts auf GRIPS informieren.
 
 Achtung: Eine Verlängerung der Abgabefrist ist nicht möglich.
-Einreichungen die uns (zu spät) per E-Mail erreichen, werden nicht mehr berücksichtigt.
+Einreichungen, die uns (zu spät) per E-Mail erreichen, werden nicht mehr berücksichtigt.
 Alle nicht eingereichten Aufgaben werden mit nicht bestanden bewertet.
 Testen Sie den Upload am besten schon vor Ablauf der Frist in Ruhe: Sie können bis zum Abgabetermin beliebig viele neue Lösungen einreichen.
 
@@ -61,7 +61,7 @@ Ihr Programm soll für beliebige Gruben, innerhalb dieser Regeln, funktionieren.
 Lösen Sie folgende Teilaufgaben, um die Grube zu füllen.
 
 1. Bouncer muss zur Grube finden
-2. Bouncer muss die Anzahl der Felder des gegenwärtigen Grubenabschnittes zählen
+2. Bouncer muss die Anzahl der Felder des aktuellen Grubenabschnittes zählen
 3. Bouncer muss zurück zum aufgestapelten Füllmaterial
 4. Bouncer nimmt sich von rechts oben nach links unten genau so viel Füllmaterial, wie Bouncer für den gegenwärtigen Grubenabschnitt braucht
 5. Bouncer kehrt zur Grube zurück
