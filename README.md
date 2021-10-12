@@ -51,6 +51,7 @@ Bouncer steht immer rechts neben dem Füllmaterial und schaut immer nach Osten, 
 Bouncer kann minimal ein Feld vom Grubenbeginn entfernt stehen, d.h. Bouncer steht links von der Markierung, dem roten Feld.
 
 Ihr Programm soll für beliebige Gruben, innerhalb dieser Regeln, funktionieren.
+Testen Sie daher ihr Programm mit allen drei mitgelieferten Maps (Pit, Pit2, Pit3).
 
 | Bouncer steht in einer Welt mit einer Grube vor Bouncer und Füllmaterial hinter Bouncer. | Bouncer hat die Grube mithilfe des Füllmaterials aufgefüllt. |
 |:------:|:------:|
@@ -66,7 +67,8 @@ Lösen Sie folgende Teilaufgaben, um die Grube zu füllen.
 4. Bouncer nimmt sich von rechts oben nach links unten genau so viel Füllmaterial, wie Bouncer für den gegenwärtigen Grubenabschnitt braucht
 5. Bouncer kehrt zur Grube zurück
 6. Bouncer steigt in den Grubenabschnitt hinab und füllt diese von unten nach oben mit dem mitgebrachten Füllmaterial auf
-7. Bouncer wiederholt diese Vorgänge bis Bouncer die Grube von links nach recht aufgefüllt hat 
+7. Bouncer wiederholt diese Vorgänge bis Bouncer die Grube von links nach recht aufgefüllt hat
+8. Bouncer geht dann zum grünen Feld am linken Rand und gönnt sich eine Pause
 
 **Hinweise**
 * Legen Sie großen Wert auf ```Decomposition```, um Ihren Code gemäß der zu lösenden Teilprobleme zu strukturieren.
