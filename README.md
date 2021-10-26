@@ -1,13 +1,5 @@
 # Studienleistung I: Bouncer | 3. Bouncer füllt eine Grube auf
 
-## Wichtige Informationen zur Bearbeitung der Aufgabe
-- [Informationen zur Entwicklungsumgebung *IntelliJ IDEA*](https://elearning.uni-regensburg.de/mod/book/view.php?id=1480675)
-- [Informationen zum Im- und Export von Projekten](https://elearning.uni-regensburg.de/mod/book/view.php?id=1480675&chapterid=51551)
-
-## Starterpaket
-
-Ein vorbereitetes Starterpaket zur selbständigen Implementierung der Aufgabe finden Sie [hier](https://github.com/OOP-Wintersemester-2021/Studienleistung-I-Bouncer-3-BouncerFuelltEineGrube/archive/refs/heads/starter.zip).
-
 ## Allgemeine Hinweise zur Studienleistung
 In dieser Studienleistung werden Sie drei Programmieraufgaben lösen.
 Diese Programmieraufgaben sind auf drei Projekte - pro Teilaufgabe ein Projekt - aufgeteilt.
