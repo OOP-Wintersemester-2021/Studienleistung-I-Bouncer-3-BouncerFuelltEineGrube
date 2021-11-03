@@ -34,6 +34,7 @@ Wir stehen Ihnen dann zeitnah zur Seite über eine Direktnachricht.
 ## Ausgangslage
 
 Bouncer steht in einer Welt, mit einer großen Grube im Boden rechts von Bouncer.
+Die Grube hat immer einen rechten Rand, der mindestens ein Feld breit ist und genau so hoch ist, also die selbe y-Koordinate hat, wie die Startposition von Bouncer.
 Hinter Bouncer befindet sich auf einer Palette (grüne Felder) aufgestapeltes Füllmaterial (blaue Felder), welches Bouncer verwenden will, um die Grube aufzufüllen.
 Bouncers Aufgabe ist es, Stück für Stück die unterschiedlichen Tiefen in der Grube festzustellen, um genügend Füllmaterial zu holen, um diesen Teil von unten nach oben aufzufüllen.
 Bouncer bedient sich hierfür einem Hilfsmittel (rotes Feld) mit dem Bouncer markiert, ob Bouncer sich diesen Teil der Grube bereits angesehen hat bzw. wo die Grube momentan beginnt. 
